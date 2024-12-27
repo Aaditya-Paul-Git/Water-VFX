@@ -1,0 +1,2 @@
+-- Simply drag this RBXM extension to your baseplate in Roblox Studio.
+-- Thats all!
